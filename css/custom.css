@@ -1,0 +1,32 @@
+.in-center {
+    width: 800px;
+}
+.text-in-center{
+    text-align: center;
+
+}
+td{
+    text-align: center;
+}
+.group-name{
+    background-color: #76aeba;
+    font-size: 20pt;
+}
+.day-name{
+    background-color: #2d5152;
+    color: white;
+    font-size: 15pt;
+}
+.lecture{
+    background-color: #e4e4e4;
+}
+.practice{
+    background-color: #a0c6ce;
+}
+.course-name{
+    font-weight: bold;
+}
+.time{
+    font-weight: bold;
+    font-size: 10pt;
+}
